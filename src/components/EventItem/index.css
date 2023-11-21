@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.main-eventItem-section {
+  width: 90%;
+  list-style-type: none;
+  margin-left: 24px;
+  margin-bottom: 32px;
+}
+
+.buttons {
+  background: transparent;
+  border-width: 0px;
+  padding: 0;
+  cursor: pointer;
+  outline: none;
+}
+
+.event-image {
+  width: 100%;
+  border: 2px solid transparent;
+  max-width: 450px;
+  border-radius: 8px;
+}
+
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 10px;
+}
+
+.event-para {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 0px;
+  margin-top: 12px;
+}
+
+.event-location {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0px;
+  margin-top: 5px;
+}
